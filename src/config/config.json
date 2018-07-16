@@ -1,0 +1,4 @@
+{
+	"jwt":"secretKey",
+	"mongo":"mongodb//:localhost/data"
+}
